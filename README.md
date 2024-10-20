@@ -41,7 +41,7 @@
   - <p><i>Faculty of Sciences Semlalia Marrakech - Septemer 2022</i></p>
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">📫 Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/salaheddineaitzenni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salaheddineaitzenni" height="30" width="40" /></a>
 </p>
