@@ -10,7 +10,7 @@
 <!-- <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXU1Z2QxdGY5bmFpZWMyaDhmNXZ4N3R2d3IxNW83ZGM4Z3RrbHpzZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"/>
  -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=salaheddineaz47&label=Profile%20views&color=0e75b6&style=flat" alt="salaheddineaz47" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=salaheddineaz47&label=Profile%20views&color=0e75b6&style=flat" alt="salaheddineaz47" /> </p> -->
 
 - 🔭 I’m currently working on **portfolio website**
 
