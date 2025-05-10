@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm Salah Eddine Ait Zenni
 
-![CSS3](https://res.cloudinary.com/dxqv9ap7w/image/upload/v1746918673/Salah_Eddine_Ait_Zenni_-_banner_wlpahc.jpg)
+![CSS3](https://res.cloudinary.com/dxqv9ap7w/image/upload/v1746918968/Salah_Eddine_Ait_Zenni_-_github-banner_wodjhc.jpg)
 
 I’m a **Full Stack Web Developer** based in Marrakech, Morocco. I specialize in building performant, scalable, and user-friendly web applications using modern technologies. With a strong focus on clean, efficient code and problem-solving, I thrive in collaborative environments and am currently open for a full-time position.
 
